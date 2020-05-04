@@ -78,3 +78,4 @@ if varA == varB {
 } else {
    print( "\(varA) and \(varB) are not equal" )
 }
+//checking git

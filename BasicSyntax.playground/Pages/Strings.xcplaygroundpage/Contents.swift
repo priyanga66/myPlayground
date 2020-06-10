@@ -1,8 +1,15 @@
 import Foundation
 
 // String creation using String literal
+//type inference
 var stringA = "Hello, Swift 4!"
 print( stringA )
+
+//type annotation
+let friend : String = "prakash"
+print(friend)
+//We cannot specify like this, if we are using "let"
+//let friend = "prakash" (Which will cause type annotation error)
 
 // String creation using String instance
 var stringB = String("Hello, Swift 4!")

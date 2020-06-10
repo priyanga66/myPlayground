@@ -85,4 +85,10 @@ if varA == varB {
 } else {
    print( "\(varA) and \(varB) are not equal" )
 }
+if varA == varB {
+   print( "\(varA) and \(varB) are equal" )
+} else {
+   print( "\(varA) and \(varB) are not equal" )
+}
 //checking git
+//checking username
